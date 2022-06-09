@@ -172,4 +172,4 @@ declare namespace pendo {
     }
 }
 
-declare const pendo: pendo.Pendo;
+export declare const pendo: pendo.Pendo;
